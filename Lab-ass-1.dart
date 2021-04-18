@@ -14,7 +14,7 @@ void checkNum(int number) {
 
   //prime checking
   if (a.length == 2) {
-    print("yay! this is a prime number :)");
+    print("yay! $number is a prime number :)");
   } else
-    print("nah! this is not a prime number :(");
+    print("nah! $number is not a prime number :(");
 }
